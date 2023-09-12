@@ -1,0 +1,193 @@
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\appsettings.json
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\School-management.exe
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\School-management.deps.json
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\School-management.runtimeconfig.json
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\School-management.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\School-management.pdb
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\Humanizer.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\البيان\source\repos\School-management\School-management\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\البيان\source\repos\School-management\School-management\obj\Debug\net6.0\School-management.csproj.AssemblyReference.cache
+C:\Users\البيان\source\repos\School-management\School-management\obj\Debug\net6.0\School-management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\البيان\source\repos\School-management\School-management\obj\Debug\net6.0\School-management.AssemblyInfoInputs.cache
+C:\Users\البيان\source\repos\School-management\School-management\obj\Debug\net6.0\School-management.AssemblyInfo.cs
+C:\Users\البيان\source\repos\School-management\School-management\obj\Debug\net6.0\School-management.csproj.CoreCompileInputs.cache
+C:\Users\البيان\source\repos\School-management\School-management\obj\Debug\net6.0\School-management.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\البيان\source\repos\School-management\School-management\obj\Debug\net6.0\School-management.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\البيان\source\repos\School-management\School-management\obj\Debug\net6.0\staticwebassets\msbuild.School-management.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\البيان\source\repos\School-management\School-management\obj\Debug\net6.0\staticwebassets\msbuild.build.School-management.props
+C:\Users\البيان\source\repos\School-management\School-management\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.School-management.props
+C:\Users\البيان\source\repos\School-management\School-management\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.School-management.props
+C:\Users\البيان\source\repos\School-management\School-management\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\البيان\source\repos\School-management\School-management\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\البيان\source\repos\School-management\School-management\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\البيان\source\repos\School-management\School-management\obj\Debug\net6.0\scopedcss\bundle\School-management.styles.css
+C:\Users\البيان\source\repos\School-management\School-management\obj\Debug\net6.0\School-management.csproj.CopyComplete
+C:\Users\البيان\source\repos\School-management\School-management\obj\Debug\net6.0\School-management.dll
+C:\Users\البيان\source\repos\School-management\School-management\obj\Debug\net6.0\refint\School-management.dll
+C:\Users\البيان\source\repos\School-management\School-management\obj\Debug\net6.0\School-management.pdb
+C:\Users\البيان\source\repos\School-management\School-management\obj\Debug\net6.0\School-management.genruntimeconfig.cache
+C:\Users\البيان\source\repos\School-management\School-management\obj\Debug\net6.0\ref\School-management.dll
+D:\banibash school\School-management\School-management\obj\Debug\net6.0\School-management.csproj.AssemblyReference.cache
+D:\banibash school\School-management\School-management\obj\Debug\net6.0\School-management.GeneratedMSBuildEditorConfig.editorconfig
+D:\banibash school\School-management\School-management\obj\Debug\net6.0\School-management.AssemblyInfoInputs.cache
+D:\banibash school\School-management\School-management\obj\Debug\net6.0\School-management.AssemblyInfo.cs
+D:\banibash school\School-management\School-management\obj\Debug\net6.0\School-management.csproj.CoreCompileInputs.cache
+D:\banibash school\School-management\School-management\obj\Debug\net6.0\School-management.MvcApplicationPartsAssemblyInfo.cs
+D:\banibash school\School-management\School-management\obj\Debug\net6.0\School-management.MvcApplicationPartsAssemblyInfo.cache
+D:\banibash school\School-management\School-management\obj\Debug\net6.0\School-management.dll
+D:\banibash school\School-management\School-management\obj\Debug\net6.0\refint\School-management.dll
+D:\banibash school\School-management\School-management\obj\Debug\net6.0\School-management.pdb
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\appsettings.Development.json
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\appsettings.json
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\School-management.exe
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\School-management.deps.json
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\School-management.runtimeconfig.json
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\School-management.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\School-management.pdb
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\Azure.Core.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\Azure.Identity.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\Humanizer.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\System.CodeDom.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\System.Memory.Data.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\System.Text.Json.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\banibash school\School-management\School-management\obj\Debug\net6.0\staticwebassets\msbuild.School-management.Microsoft.AspNetCore.StaticWebAssets.props
+D:\banibash school\School-management\School-management\obj\Debug\net6.0\staticwebassets\msbuild.build.School-management.props
+D:\banibash school\School-management\School-management\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.School-management.props
+D:\banibash school\School-management\School-management\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.School-management.props
+D:\banibash school\School-management\School-management\obj\Debug\net6.0\staticwebassets.pack.json
+D:\banibash school\School-management\School-management\obj\Debug\net6.0\staticwebassets.build.json
+D:\banibash school\School-management\School-management\obj\Debug\net6.0\staticwebassets.development.json
+D:\banibash school\School-management\School-management\obj\Debug\net6.0\scopedcss\bundle\School-management.styles.css
+D:\banibash school\School-management\School-management\obj\Debug\net6.0\School-management.csproj.CopyComplete
+D:\banibash school\School-management\School-management\obj\Debug\net6.0\School-management.genruntimeconfig.cache
+D:\banibash school\School-management\School-management\obj\Debug\net6.0\ref\School-management.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\AutoMapper.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\Duende.IdentityServer.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\Duende.IdentityServer.AspNetIdentity.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\Duende.IdentityServer.EntityFramework.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\Duende.IdentityServer.EntityFramework.Storage.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\Duende.IdentityServer.Storage.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\IdentityModel.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\Microsoft.AspNetCore.ApiAuthorization.IdentityServer.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\banibash school\School-management\School-management\bin\Debug\net6.0\Newtonsoft.Json.dll
